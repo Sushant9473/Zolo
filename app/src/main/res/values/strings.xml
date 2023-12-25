@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zolo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Post</string>
+    <string name="title_notifications">Profile</string>
+    <string name="ingredient">Ingredient</string>
+
+</resources>
